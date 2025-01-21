@@ -7,3 +7,8 @@ h1{
 body{
     background-color: black;
 }
+p.test{
+    color: rgb(152, 135, 135);
+    font-weight: bold;
+    font-style: oblique;
+}
