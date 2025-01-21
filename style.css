@@ -1,0 +1,9 @@
+h1{
+    color: rgba(151, 19, 32, 0.882);
+    font-weight: bold;
+    font-style: italic;
+    size: 19px 19px;
+}
+body{
+    background-color: black;
+}
